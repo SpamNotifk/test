@@ -7,8 +7,8 @@ const app = express();
 const PORT = 3000;
 
 // إعداد Telegram
-const BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN';
-const CHAT_ID = 'YOUR_CHAT_ID';
+const BOT_TOKEN = '7543601859:AAGONM-EXtQD55FNsSMDca1ml3agUxH2fyU';
+const CHAT_ID = '7499043737';
 
 // إعداد المجلدات
 app.use(bodyParser.json({ limit: '10mb' }));
